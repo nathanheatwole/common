@@ -1,0 +1,11 @@
+[user]
+        name = Nathan Heatwole
+        email = nathan.heatwole@ibotta.com
+[global]
+        name = Nathan Heatwole
+[diff]
+        tool = vimdiff
+[difftool]
+        prompt = false
+[alias]
+        co = checkout
