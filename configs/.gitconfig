@@ -9,3 +9,5 @@
         prompt = false
 [alias]
         co = checkout
+[pager]
+        branch = false
